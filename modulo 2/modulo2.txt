@@ -1,1 +1,5 @@
+#Descrição
 
+* O arquivo bike-sharing.csv foi baixado através do site  https://pycourse.s3.amazonaws.com/bike-sharing.csv , ele contem dados coletados pela Universidade do Porto, envolvendo o uso de bicicletas.
+  * Esse arquivo foi utilizado para análise no módulo 2. Nesse desafio, foi fornecido o dataset, e dai os alunos tiveram de desenvovler seu próprio código para responder algumas perguntas.
+  
