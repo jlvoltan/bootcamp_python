@@ -7,3 +7,5 @@ Busquei fazer as observações do que julguei ser mais importante e com exemplos
 
 * O Módulo 1 tratou sobre os fundamentos;
 * O Módulo 2 tratou sobre análise de dados e bibliotecas como Pandas, Numpy e scikit-learn.
+* O Módulo 3 tratou sobre desenvolvimento Web
+* O Módulo 4 tratou sobre conhecimentos diversos, dentre eles o desenvolvimento de jogos simples, como o Turtle.
